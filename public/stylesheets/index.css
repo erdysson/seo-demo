@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: antiquewhite;
+    font-size: 120%;
+}
+
+table {
+    table-layout: fixed;
+}
+
+p {
+    font-size: 18px;
+}
