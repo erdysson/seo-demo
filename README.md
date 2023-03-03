@@ -268,10 +268,4 @@ You can avoid unexpected layout shifts by sticking to a few guiding principles:
 - Ensure **text remains visible during webfont load**
 - Keep **request counts low** and **transfer sizes small**
 
-### Last words
-
-- In our company and product, we know that we are not running for SEO. However, a pleasant application performance is valuable.
-
-- Why? Having a new customer, is 10x more expensive than keeping an existing customer, and to make sure that we keep our existing customers, we need to provide them a pleasant application performance.
-
 For more details, information and articles, refer to [web.dev](https://web.dev)
